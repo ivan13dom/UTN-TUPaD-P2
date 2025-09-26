@@ -1,0 +1,21 @@
+# Compilados y temporales
+*.class
+*.log
+*.tmp
+*.swp
+
+# NetBeans
+**/nbproject/private/
+**/build/
+**/dist/
+**/nbbuild/
+**/.nb-gradle/
+**/.gradle/
+
+# IDEs
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+Thumbs.db
