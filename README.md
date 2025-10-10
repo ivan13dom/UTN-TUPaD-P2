@@ -33,6 +33,3 @@ Repositorio para los **Trabajos Prácticos de Programación II**
 
 - Este repositorio **no incluye archivos compilados** (`build/`, `dist/`, etc.), solo código fuente y configuraciones necesarias para abrir los proyectos en NetBeans.  
 - Cada trabajo práctico se puede ejecutar de forma independiente.  
-- El README no necesita actualizarse con cada nuevo TP: basta con seguir la convención de carpetas.
-
----
